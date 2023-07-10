@@ -2,3 +2,4 @@ Numpy
 Pandas
 Streamlit
 scikit-learn
+pickleshare
