@@ -1,4 +1,4 @@
-"re# Book Recommendation System using Collaborative Filtering
+ # Book Recommendation System using Collaborative Filtering
 
 This project implements a book recommendation system based on collaborative filtering, a popular approach in recommendation systems. The system aims to provide personalized book recommendations to users by leveraging the preferences of similar users.
 
